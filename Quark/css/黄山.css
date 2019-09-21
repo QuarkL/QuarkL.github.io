@@ -1,0 +1,109 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+body{
+	background-color: #FFFFF0;
+}
+.topbar {
+	position: absolute;
+	
+	list-style-type: none;
+	background-color: #20B2AA;
+	width: 100%;
+}
+
+.top {
+	float: left;
+	width: 20%;
+}
+
+.lm {
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 26px;
+	text-decoration: none;
+	font-family: "微软雅黑";
+	font-size: 18px;
+}
+
+.lm:hover {
+	color: black;
+	background-color: #87CEFA;
+}
+p {
+	text-align:justify;
+	text-indent:35px;
+	}
+.lj:link{color: #000;}
+.lj:visited{color: #000;}
+.lj:hover{color: red;}
+
+.hs{
+	padding: 20px 15px;
+	margin: 20px;
+	width: 300px;
+	border: 1px solid gray;
+	background: url(../img/背景.jpg);
+	float: left;
+	font-family: 微软雅黑;
+	
+}
+.hs h2{
+	color: royalblue;
+	font-weight: bold;
+	text-align: center;
+}
+
+
+.wuyue{
+	color: #FF0000;
+	font-weight: bold;
+	
+}
+.pj{
+	font-weight: 900;
+}
+.laojie{
+	color:cadetblue;
+	font-weight: bold;
+}
+
+.zimu{
+	color:gold;
+	font-family: "楷体";
+	font-size: 30px;
+}
+.zm:link{color: gold;
+text-decoration:none;}
+.zm:visited{color: gold;}
+.zm:hover{color: peru;}
+.zm:active {color:green;} 
+
+/*还没学到这,以下是从菜鸟上复制的*/
+div.img
+{
+  margin: 21px;
+  border: 1px solid #000000;
+  height: auto;
+  width: auto;
+  float: left;
+  text-align: center;
+}    
+div.img img
+{
+  display: inline;
+  margin: 3px;
+  border: 1px solid #ffffff;
+}
+div.img a:hover img {border: 1px solid #0000ff;}
+div.desc
+{
+  text-align: center;
+  font-weight: normal;
+  width: 120px;
+  margin: 2px;
+}
+
+
