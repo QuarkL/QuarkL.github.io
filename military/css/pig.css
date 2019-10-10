@@ -28,7 +28,7 @@
 	float: left;
 	padding: 20px 15px;
 	margin: 25px;
-	border: 1px solid gray;
+	border: 3px dotted gray;
 	background-color: #FFF0F5;
 	height: 450px;
 	width: 300px;
@@ -41,8 +41,8 @@
 	float: left;
 	padding: 20px 15px;
 	margin: 25px;
-	border: 1px solid gray;
-	background-color: #FFF8DC;
+	border: 3px dotted gray;
+	background-color:#E6E6FA;
 	height: 450px;
 	width: 300px;
 	
@@ -57,10 +57,10 @@
 	float: left;
 	padding: 20px 15px;
 	margin: 25px;
-	border: 1px solid gray;
+	border: 3px dotted gray;
 	height: 450px;
 	width: 300px;
-	background-color: #FFFAFA;
+	background-color:#E8E8E8;
 	line-height: 29px;
 	}
 .day4{
@@ -68,9 +68,10 @@
 	left: 20px;
 	padding: 20px 15px;
 	margin: 25px;
-	border: 1px solid gray;
+	border: 3px dotted gray;
 	height: 570px;
 	width: 300px;
+	background-color:#FFE4E1;
 	}
 .day4 h3{
 	color: red;
@@ -88,7 +89,7 @@
 	left: 20px;
 	padding: 20px 15px;
 	margin: 25px;
-	border: 1px solid gray;
+	border: 3px dotted gray;
 	height: 570px;
 	width: 300px;
 	background-color: #F2F2F2;
@@ -101,10 +102,10 @@
 		left: 20px;
 		padding: 20px 15px;
 		margin: 25px;
-		border: 1px solid gray;
+		border: 3px dotted gray;
 		height: 570px;
 		width: 300px;
-		background-color: #FAF0E6;
+		background-color:#D9D9D9;
 		}
 .bottom{
 		width: 100%;
@@ -116,4 +117,5 @@
 		font-size: 13px;
 		color:#989898;
 	}
+
 	
