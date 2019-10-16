@@ -1,0 +1,148 @@
+@media screen and (max-width: 900px) {
+    body {
+        min-height: 485px;
+        overflow: hidden;
+        position: relative;
+    }
+    @media screen and (max-height: 485px) {
+        body {
+            overflow: visible;
+            padding-bottom: 50px;
+        }
+    }
+	
+	.topbar{
+		min-width: 0px;
+		height: 67%;
+	}
+	.logo img{
+		height: 45px;
+		width: 45px;
+		margin: 20px 10px 20px 10px;
+		border-radius: 7px;
+	}
+	.gonggong{
+		line-height: 80px;
+		font-size: 25px;
+	}
+	
+	.nmsl-1{
+		display: none;
+	}
+	.nmsl-2{
+		display: none;
+	}
+	.nmsl-3{
+		display: none;
+	}
+	.content {
+	    width: 100%;
+	    height: 85%;
+	}
+	.all{
+		position: absolute;
+		top: 80px;
+		left: 10px;
+		width: 100%;
+	}
+	.slogan{
+		display: none;
+	}
+	.name{
+		font-size: 35px;
+	}
+	.download {
+	    margin: 10px 0;
+	    height: 70px;
+	    width: 35%;
+	    
+	}
+	.download1 {
+		width: 100%;
+	    height: 100%;
+	    line-height: 70px;
+	    font-size: 20px;
+	 }
+	
+	.android {
+	    display: block;
+	    font-size: 20px;
+		
+	}
+	.version{
+		width: 80px;
+		position: absolute;
+		top: 23px;
+		left: 50px;
+	}
+	.size{
+		font-size: 12px;
+		margin-right: 15px;
+	}
+	.date{
+		font-size: 12px;
+	}
+	.QRcode{
+		display: none;}
+	.example {
+	    width: 100%;
+	    height:85%;
+	    position: absolute;
+	    right: -90px;
+	    background-position: bottom center;
+	    background-size: contain;
+		background-image: url(../img/pre2.png);
+	}
+	.dilan {
+	    width: 90%;
+	    height: 30%;
+	    padding: 0;
+	}
+	.fenlan{
+		 height: 100%;
+		    float: left;
+		}
+	.tu1{
+		background-image: url(../img/1.png) 0px;
+		background-size: 100% auto;
+	}
+	.tu2{
+		background-image: url(../img/2.png) 0px ;
+		background-size: 100% auto;
+	}
+	.tu3{
+		background-image: url(../img/3.png) 0px;
+		background-size: 100% auto;
+	}
+	.tu4{
+		background-image: url(../img/4.png) 0px;
+		background-size: 100% auto;
+	}	
+	.pic{
+		width: 80%;
+		height: 0;
+		padding-bottom: 80%;
+		margin: 20px auto 0;
+	}
+	.jieshao{
+		margin-top: 10px;
+		text-align: center;
+		color: #373737;
+		font-size: 14px;
+	}
+	.jieshao1{
+		display: none;
+	}
+	.bottom{
+			height: 30px;
+			line-height: 30px;
+			font-size: 12px;
+			min-width: 0;
+			position: absolute;
+			bottom: 0;
+	}
+	hr{
+		display: none;
+	}
+}
+	
