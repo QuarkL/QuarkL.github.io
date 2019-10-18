@@ -1,0 +1,246 @@
+* {
+	margin: 0 auto;
+	padding: 0;
+	text-decoration: none;
+}
+
+html,
+body {
+	width: 100%;
+	height: 100%;
+}
+
+
+.topbar {
+	width: 100%;
+	min-width: 1100px;
+	height: 600px;
+	background-image: url(../img/background.png);
+	background-size: cover;
+}
+
+
+.logo img {
+	height: 60px;
+	width: 60px;
+	margin: 20px 20px 20px 230px;
+	float: left;
+	border-radius: 12px;
+}
+
+.gonggong {
+	line-height: 90px;
+	font-size: 35px;
+	color: #fff;
+	font-family: '微软雅黑';
+}
+
+.nmsl {
+	float: right;
+	padding: 0;
+	margin: 23px 0px 23px 0px;
+	border: 1px;
+	border-style: dashed;
+}
+
+.nmsl-1 {
+	float: right;
+	margin-right: 25px;
+	line-height: 90px;
+	font-size: 25px;
+	color: rgb(251, 108, 109);
+	font-family: '微软雅黑';
+	cursor: pointer;
+}
+
+.nmsl-2 {
+	float: right;
+	margin-right: 25px;
+	line-height: 90px;
+	font-size: 25px;
+	color: white;
+	font-family: '微软雅黑';
+	cursor: pointer;
+}
+
+.nmsl-3 {
+	float: right;
+	margin-right: 200px;
+	line-height: 90px;
+	font-size: 25px;
+	color: white;
+	font-family: '微软雅黑';
+	cursor: pointer;
+}
+
+.nmsl-2:hover {
+	color: #ff5454;
+}
+
+.nmsl-3:hover {
+	color: #ff5454;
+}
+
+
+.content {
+	width: 1100px;
+	height: 500px;
+	position: relative;
+}
+
+.info {
+	width: 550px;
+	height: 100%;
+	margin: 0;
+	padding: 80px 0 0 60px;
+}
+
+.name {
+	font-size: 33px;
+	color: white;
+}
+
+.android {
+	font-size: 25px;
+	color: white;
+}
+
+.beta {
+	display: inline-block;
+	height: 25px;
+	width: 95px;
+	color: #fff;
+	font-size: 20px;
+	line-height: 30px;
+	text-align: center;
+	margin-left: 25px;
+	border-radius: 5px;
+	background: #fb6c6d;
+}
+
+.slogan {
+	font-size: 30px;
+	color: #fff;
+	line-height: 60px;
+	font-family: 宋体;
+}
+
+.download {
+	margin: 20px 0;
+	height: 120px;
+	width: 435px;
+}
+
+.download1 {
+	float: left;
+	width: 300px;
+	height: 100%;
+	text-align: center;
+	line-height: 120px;
+	font-size: 33px;
+	color: #fff;
+	border-radius: 10px;
+	background: #fb6c6d;
+	cursor: pointer;
+
+}
+
+.download1:hover {
+	background: #ff5454;
+}
+
+.QRcode {
+	float: right;
+	width: 120px;
+	height: 100%;
+}
+
+.QRcode img {
+	height: 100%;
+	border-radius: 10px;
+}
+
+.size {
+	font-size: 17px;
+	color: #fff;
+	margin-right: 40px;
+}
+
+.date {
+	font-size: 17px;
+	color: #fff;
+}
+
+.example {
+	width: 315px;
+	height: 500px;
+	position: absolute;
+	right: 20px;
+	top: 10px;
+	background-size: cover;
+	background-position: top center;
+	background-repeat: no-repeat;
+}
+
+.example {
+	background-image: url(../img/pre2.png);
+}
+
+.dilan {
+	width: 1040px;
+	height: 410px;
+	padding: 0 30px;
+}
+
+.fenlan {
+	height: 100%;
+	width: 25%;
+	float: left;
+}
+
+.pic {
+	width: 150px;
+	height: 150px;
+	margin: 80px auto 0;
+}
+
+.tu1 {
+	background-image: url(../img/1.png);
+}
+
+.tu2 {
+	background-image: url(../img/2.png);
+}
+
+.tu3 {
+	background-image: url(../img/3.png);
+}
+
+.tu4 {
+	background-image: url(../img/4.png);
+}
+
+.jieshao {
+	margin-top: 20px;
+	text-align: center;
+	color: #373737;
+	font-size: 18px;
+}
+
+.jieshao1 {
+	text-align: center;
+	color: #373737;
+	font-size: 18px;
+}
+
+
+.bottom {
+	width: 100%;
+	min-width: 1100px;
+	background: #efefef;
+	text-align: center;
+	height: 70px;
+	line-height: 70px;
+	font-size: 13px;
+	color: #989898;
+}
