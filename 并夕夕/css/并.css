@@ -113,7 +113,7 @@ input::-webkit-input-placeholder{
 .huodong{
 	position: relative;
 	width: 80%;
-	top: 470px;
+	top: 600px;
 	margin: 0 auto;
 }
 .nv{
@@ -205,7 +205,7 @@ a :active {color:#e12e24;}
 .bottom{
 	position:absolute;
 	width: 100%;
-	bottom: -1200px;
+	bottom: -1400px;
 	margin: 0 auto;
 	
 }
@@ -251,7 +251,7 @@ a :active {color:#e12e24;}
 	font-size: 13px;
 	color: #989898;
 	position: absolute;
-	bottom: -1260px;
+	bottom: -1530px;
 }
 .ai{
 	float: left;
