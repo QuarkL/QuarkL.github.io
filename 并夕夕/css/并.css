@@ -125,14 +125,18 @@ input::-webkit-input-placeholder{
 	float: right;
 }
 .woman{
-	float: left;
+	position: absolute;
+	left: 0;
+	top: 55px;
 	width: 45%;
 	border-width: 20px;
 	border-color:#FAFAFA;
 	border-style: solid;
 }
 .man{
-	float: right;
+	position: absolute;
+	right: 0;
+	top: 55px;
 	width: 45%;
 	border-width: 20px;
 	border-color:#FAFAFA;
@@ -192,9 +196,9 @@ a :active {color:#e12e24;}
 	border-style: solid;
 	
 }
-.shiyi{
-	width: 100%;
-	float: left;
+.shiyi img{
+	/* width: 540px; */
+	/* float: left; */
 }
 .shuangshier{
 	/* float: right; */
@@ -209,9 +213,9 @@ a :active {color:#e12e24;}
 }
 
 }
-.shier{
-	width: 100%;
-	float: left;
+.shier img{
+	/* width: 540px; */
+	/* float: left; */
 }
 .dingjin{
 	color:#e12e24 ;
@@ -245,7 +249,7 @@ a :active {color:#e12e24;}
 	border: 10px;
 	border-style: solid;
 	border-color: #E3E3E3;
-	margin-left: 110px;
+	
 	float: left;
 	display: flex;
 	flex-wrap: nowrap;
