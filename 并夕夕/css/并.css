@@ -182,7 +182,10 @@ a :active {color:#e12e24;}
 	font-weight: 200;
 }
 .shuangshiyi{
-	float: left;
+	/* float: left; */
+	position: absolute;
+	left: 0px;
+	top: 610px;
 	width: 45%;
 	border-width: 20px;
 	border-color:#FAFAFA;
@@ -194,7 +197,10 @@ a :active {color:#e12e24;}
 	float: left;
 }
 .shuangshier{
-	float: right;
+	/* float: right; */
+	position: absolute;
+	right: 0px;
+	top: 610px;
 	width: 45%;
 	border-width: 20px;
 	border-color:#FAFAFA;
