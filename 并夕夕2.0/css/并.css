@@ -170,13 +170,13 @@ input::-webkit-input-placeholder{
 }
 .jiage{
 	color:#e12e24 ;
-	font-size: 23px;
+	font-size: 20px;
 	display: inline;
 }
 .del{
 	display: inline;
 	text-decoration: line-through;
-	margin-left: 17px;
+	margin-left: 10px;
 	
 }
 a :hover {color:#FF704D;}
