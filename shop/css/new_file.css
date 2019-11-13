@@ -1,0 +1,156 @@
+*{
+	padding: 0;
+	margin: 0;
+	text-decoration: none;
+}
+.clearfix:after {
+	content: "";
+	display: block;
+	clear: both;
+}
+.container{
+	width: 1200px;
+	margin: 0 auto;
+	
+}
+.top{
+	height: 90px;
+	position: relative;
+	background-color: #FFFAFA;
+}
+.top img{
+	width: 120px;
+	height: 50px;
+	position: relative;
+	top: 50%;
+	transform: translateY(-50%);
+}
+.box{
+	float: right;
+	border:2px solid #FF0036;
+	position: relative;
+	top: 50%;
+	transform: translateY(-50%);
+}
+.box .text{
+	float: left;
+	width: 500px;
+	height: 30px;
+	outline: none;
+}
+.box .button{
+	float: left;
+	width: 90px;
+	height: 34px;
+	border: none;
+	background-color: #FF0036;
+	color: white;
+	cursor: pointer;
+	outline: none;
+}
+.pic{
+	margin-top: 20px;
+}
+.pic img{
+	display: block;
+	margin: 0 auto;
+}
+.band{
+	margin: 0 auto;
+}
+.band img{
+	direction: block;
+	width: 1190px;
+	margin: 0 auto;
+}
+.neirong{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+.item{
+	width: 220px;
+	height: 320px;
+	margin-bottom: 20px;
+	background-color:#F8F8FF;
+}
+.tu{
+	width: 210px;
+	height: 210px;
+	margin: 5px;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.tua1{
+	background-image: url(../img/a1.jpg); 
+}
+.tua2{
+	background-image: url(../img/a2.jpg); 
+}
+.tua3{
+	background-image: url(../img/a3.jpg); 
+}
+.tua4{
+	background-image: url(../img/a4.jpg); 
+}
+.tua5{
+	background-image: url(../img/a5.jpg); 
+}
+.tub1{
+	background-image: url(../img/b1.jpg); 
+}
+.tub2{
+	background-image: url(../img/b2.jpg); 
+}
+.tub3{
+	background-image: url(../img/b3.jpg); 
+}
+.tub4{
+	background-image: url(../img/b4.jpg); 
+}
+.tub5{
+	background-image: url(../img/b5.jpg); 
+}
+.price .yang{
+	font-size: 15px;
+}
+.price span{
+	color: #FF0036;
+	font-size: 20px;
+}
+.jianjie{
+	padding:0 6px ;
+	color: #333;
+	font-size: 13px;
+	height:32px;
+	overflow: hidden;
+	font-family: "宋体";
+	margin-top: 10px;
+}
+.jianjie a:link{
+	color: #333;
+}
+.jianjie a:visited{
+	color: #333;
+}
+.jianjie a:hover{
+	color: red;
+}
+.shop{
+	display: inline-block;
+	margin-top: 10px;
+	font-size: 12px;
+	color: #999;
+	font-family: "宋体";
+	text-decoration: underline;
+}
+.shop:hover{
+	color: #FF0000;
+}
+.tu:hover{
+	transform: scale(1.1);
+	transition: 0.5s;
+}
+.goumai{
+	display: none;
+}
