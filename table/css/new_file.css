@@ -1,0 +1,29 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+.wrap{
+	width: 800px;
+	margin: 0 auto;
+}
+.title{
+	text-align: center;
+}
+.input{
+	margin: 20px auto;
+	width: 500px;
+	outline: none;
+}
+#sumbit{
+	width: 50px;
+}
+table{
+	margin-top: 50px;
+	border-collapse: collapse;
+	text-align: center;
+	
+}
+td{
+	width: 200px;
+}
+
