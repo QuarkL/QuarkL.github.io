@@ -20,6 +20,9 @@
 	    height: 8px;
 	    background: #000;
 }
+.info a:hover{
+	color: #333;
+}
 .phone{
 	position: relative;
 	margin: 0 auto;
