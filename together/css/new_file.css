@@ -1,0 +1,72 @@
+.friends{
+	width: 100%;
+	
+}
+.friends p{
+	text-align: center;
+	font-size: 60px;
+	font-family: "仿宋";
+	color: #2386fe;
+}
+.tu{
+	margin: 0 auto;
+	width: 60%;
+	
+}
+.tu img{
+	margin-left: 60px;
+	margin-bottom: 20px;
+	border: 1px solid #999;
+}
+
+.footer{
+	width: 100%;
+	height: 300px;
+	background: #000000;
+	margin: 0 auto;
+}
+.link{
+	width: 1120px;
+	height: 239px;
+	margin:0 auto;
+	border-bottom: 1px solid #333;
+}
+.copyright{
+	width: 1120px;
+	height: 30px;
+	color: #666666;
+	margin: 0 auto;
+	text-align: center;
+	font-size: 13px;
+}
+.linkleft{
+	color: #FFFFFF;
+	font-size: 50px;
+	float: left;
+	margin-top: 80px;
+	margin-left: 80px;
+}
+.linkright{
+	float: right;
+	margin-top: 40px;
+	margin-right: 100px;
+	
+}
+.linkright dl{
+	float: left;
+	width: 111px;
+	text-align: left;
+	margin-top: 50px;
+	margin-right: 140px;
+}
+.linkright dt{
+	font-size: 18px;
+	color: white;
+}
+.linkright dd{
+	display: block;
+	height: 30px;
+	font-size: 14px;
+	line-height: 43px;
+	color: #999;
+}

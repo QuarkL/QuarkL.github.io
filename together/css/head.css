@@ -1,0 +1,128 @@
+* {
+	padding: 0;
+	margin: 0;
+	text-decoration: none;
+}
+
+.container {
+	position: relative;
+}
+
+.top_global {
+	position: relative;
+	width: 100%;
+	height: 100px;
+	background-color: #000;
+}
+
+.topbar {
+
+	margin: 0 auto;
+	width: 1220px;
+	height: 87px;
+	background-color: #000;
+}
+
+.logo {
+	color: #FFF;
+	margin-top: 15px;
+
+	float: left;
+}
+
+.logo h2 {
+	font-size: 40px;
+	font-family: "book antiqua";
+	font-weight: bold;
+}
+
+.logo p {
+	font-size: 11px;
+}
+
+.info {
+	float: left;
+	margin-left: 100px;
+	color: #FFFFFF;
+	margin-top: 30px;
+	width: 400px;
+	height: 60px;
+}
+
+.info a {
+	float: left;
+	margin-left: 40px;
+	color: #FFFFFF;
+	font-size: 17px;
+	font-family: "微软雅黑";
+}
+
+.account {
+	float: right;
+	width: 440.85px;
+	height: 28px;
+	margin-top: 38px
+}
+
+.search {
+	width: 166px;
+	height: 30px;
+	color: #333;
+	border-radius: 20px;
+	background-color: #2B2B2B;
+	float: left;
+}
+
+input {
+	width: 120px;
+	height: 28px;
+	padding: 4px 0;
+	margin-left: 10px;
+	color: #FFFFFF;
+	border-radius: 20px;
+	background-color: #2b2b2b;
+	border-bottom-left-radius: 2px;
+	border-top-left-radius: 2px;
+	font-size: 12px;
+	border: none;
+	box-sizing: border-box;
+	outline: none;
+}
+
+.icon {
+	float: left;
+	position: relative;
+	background-color: #2B2B2B;
+	background-image: url(../img/icons.png);
+	background-position: -147px -184px;
+	background-size: 160px auto;
+	border-bottom-right-radius: 2px;
+	border-top-right-radius: 2px;
+	position: relative;
+	top: 4px;
+	left: 6px;
+	width: 18px;
+	height: 22px;
+	background-repeat: no-repeat;
+}
+.mini{
+	display: inline-block;
+	position: relative;
+	top: 5px;
+	left: 35px;
+	color: #FFFFFF;
+}
+.mini i{
+	font-size: 20px;
+}
+.mini a{
+	margin-right: 10px;
+	font-size: 14px;
+}
+.login{
+	color: #FFFFFF;
+	float: right;
+	margin-right: 15px;
+	margin-top: 5px;
+	font-size: 14px;
+}
